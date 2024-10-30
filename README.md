@@ -12,7 +12,7 @@ price varies based on this.
 Task3:- Come up with suggestions for the customer to buy the house according
 to the area, price and other requirements.
 
-Dataset Description and Link:
+Dataset Description :
 Ask a home buyer to describe their dream house, and they probably won&#39;t begin with
 the height of the basement ceiling or the proximity to an east-west railroad. But this
 playground competition&#39;s dataset proves that much more influences price negotiations
